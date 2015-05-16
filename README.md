@@ -10,3 +10,5 @@ Instructions for running the test suites:
 3) If all tests have passed, the section should be green.  If it is green, feel free to edit any of the tests to make it fail, thus changing the color of the test area from green to red (refer to #4 below
 
 4) All tests are in the jasmine/spec/feedreader.js file.  Comments accompanying the tests are self-explanatory
+
+5) For these tests, I used what I learned via the course videos, udacity's discussion forum and stackoverflow.com
